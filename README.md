@@ -15,3 +15,6 @@ Když hráč zahraje kartu s hodnotou 7, tak hráč, který je další na řadě
 Při zahrání svršku (měnič), tak hráč který kartu zahrál, si může vybrat, jaký druh karty (Žaludy, zelená, kule, a červené srdce) se musí hrát jako další.
 
 Když je zahraná karta "Eso", tak další hráč, který má být na řadě, svůj tah ztrácí.
+
+Ostatní karty nemají žádné speciální pravidla.
+## Design
