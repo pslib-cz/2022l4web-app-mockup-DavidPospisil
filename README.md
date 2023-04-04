@@ -18,4 +18,4 @@ Když je zahraná karta "Eso", tak další hráč, který má být na řadě, sv
 
 Ostatní karty nemají žádné speciální pravidla.
 ## Design
-Karty se pokládají na střed hrací plochy pod náhodným úhlem. Vedle oblasti pro odhládání karet je balíček pro braní si karet, když si hráč musí lízat.
+Karty se pokládají na střed hrací plochy pod náhodným úhlem. Vedle oblasti pro odhládání karet je balíček pro braní si karet, když si hráč musí lízat. Každý hráč je umístěn na svoji stranu hrací plochy, přičemž hráč za kterého hraje uživatel je na spodní straně monitoru a vidí pouze líce vlastních karet. Karty ostatních hráču jsou otočeny zády nahoru.
