@@ -22,6 +22,13 @@ Ostatní karty nemají žádné speciální pravidla.
 ## Design
 Karty se pokládají na střed hrací plochy pod náhodným úhlem. Vedle oblasti pro odhládání karet je balíček pro braní si karet, když si hráč musí lízat. Každý hráč je umístěn na svoji stranu hrací plochy, přičemž hráč za kterého hraje uživatel je na spodní straně monitoru a vidí pouze líce vlastních karet. Karty ostatních hráču jsou otočeny zády nahoru.
 ### Design karet
-![design](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/acde6355a4aacd82f7b42e3106b4a76868e2ffcd/ukazka.jpg)
+![Srdce 7](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%207.svg)
+![Srdce 8](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%208.svg)
+![Srdce 9](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%209.svg)
+![Srdce 10](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%2010.svg)
+![Srdce Spodek](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%20Spodek.svg)
+![Srdce Svršek](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%20Svr%C5%A1ek.svg)
+![Srdce Eso](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%20Eso.svg)
+![Srdce Král](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%20Kr%C3%A1l.svg)
 ### Pozadí (hrací plocha)
 ![pozadi](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/2914602bb5c398e7fa4f4b4fc891201b605eab3c/Pozad%C3%AD.jpg)
