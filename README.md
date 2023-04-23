@@ -1,5 +1,7 @@
 # Moderní prší
 Aplikace, která simuluje známou českou karetní hru Prší, akorát v moderním provedení.
+## Jak bude hra vypadat
+Hráč bude soupeřit v karetní hře prší proti třem protivníkům, které bude ovládat počítač. Počítači Budou rozdány náhodné karty z balíčku a bude hrát stejně jako hráč podle pravidel, které jsou vypsány níže.
 ## Pravidla hry
 Prší může hrát 2-4 hráči.
 
