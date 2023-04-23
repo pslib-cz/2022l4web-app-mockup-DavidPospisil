@@ -21,6 +21,7 @@ Když je zahraná karta "Eso", tak další hráč, který má být na řadě, sv
 Ostatní karty nemají žádné speciální pravidla.
 ## Design
 Karty se pokládají na střed hrací plochy pod náhodným úhlem. Vedle oblasti pro odkládání karet je balíček pro braní si karet, když si hráč musí lízat. Každý hráč je umístěn na svoji stranu hrací plochy, přičemž hráč za kterého hraje uživatel je na spodní straně monitoru a vidí pouze líce vlastních karet. Karty ostatních hráču jsou otočeny rubem nahoru.
+![Ukázka ze hry](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/52d12b18e59a7f097438393ffa0a49908c8ef54f/Uk%C3%A1zka%20ze%20hry.svg)
 ### Design karet
 ![Srdce 7](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%207.svg)
 ![Srdce 8](https://github.com/pslib-cz/2022l4web-app-mockup-DavidPospisil/blob/aa038fadbb78ba5d0e11e4e19ba95dfbf8d6d95e/Podklady/Srdce/Srdce%208.svg)
